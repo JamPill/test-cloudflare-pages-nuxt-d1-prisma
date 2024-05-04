@@ -1,6 +1,8 @@
 # Test Cloudflare Pages - Nuxt - Realm (realm-web)
 
-App created following [this official guide](https://developers.cloudflare.com/pages/framework-guides/deploy-a-nuxt-site) by Cloudflare, in conjunction with [this official guide](https://www.prisma.io/docs/orm/prisma-client/deployment/edge/deploy-to-cloudflare) by Prisma
+App created following [this official guide](https://developers.cloudflare.com/pages/framework-guides/deploy-a-nuxt-site) by Cloudflare.
+
+Prisma implementation following [this official guide](https://developers.cloudflare.com/d1/tutorials/d1-and-prisma-orm) by Cloudflare, in conjunction with [this official guide](https://www.prisma.io/docs/orm/prisma-client/deployment/edge/deploy-to-cloudflare) by Prisma
 
 ---
 
