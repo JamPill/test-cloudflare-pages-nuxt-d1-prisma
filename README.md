@@ -36,7 +36,7 @@ Find a solution for using Prisma within Cloudflare Pages or a technical explanat
 
 ## Result
 
-Cloudflare build results in Success, but visiting the [test page](test-cloudflare-pages-nuxt-d1-prisma.pages.dev/api/test) results in Error:
+Cloudflare build results in Success, but visiting the [test page](https://test-cloudflare-pages-nuxt-d1-prisma.pages.dev/api/test) results in Error:
 
 ```plain-text
 500: Cannot read properties of undefined (reading 'exec').
